@@ -1,0 +1,17 @@
+{
+  "GlobalLock": false,
+  "BlockedHardwareIds": [],
+  "AuthorizedHardwareIds": [],
+  "Subscriptions": [
+    {
+      "HwId": "ID-DO-CLIENTE-1",
+      "PaidUntil": "2026-05-20T23:59:59",
+      "Customer": "Restaurante Exemplo"
+    },
+    {
+      "HwId": "ID-DO-CLIENTE-2",
+      "PaidUntil": "2026-04-10T23:59:59",
+      "Customer": "Inadimplente Teste"
+    }
+  ]
+}
